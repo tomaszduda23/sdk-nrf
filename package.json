@@ -1,0 +1,16 @@
+{
+  "name": "framework-zephyr",
+  "version": "0.0.0",
+  "description": "sdk-nrf",
+  "keywords": [
+    "framework",
+    "rtos",
+    "hal"
+  ],
+  "homepage": "",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrfconnect/sdk-nrf"
+  }
+}
